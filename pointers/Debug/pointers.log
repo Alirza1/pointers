@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\alirz\source\repos\pointers\pointers\Source.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alirz\source\repos\pointers\pointers\Source.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alirz\source\repos\pointers\pointers\Source.cpp(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alirz\source\repos\pointers\pointers\Source.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alirz\source\repos\pointers\pointers\Source.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alirz\source\repos\pointers\pointers\Source.cpp(121,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alirz\source\repos\pointers\pointers\Source.cpp(133,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  pointers.vcxproj -> C:\Users\alirz\source\repos\pointers\Debug\pointers.exe
